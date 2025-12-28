@@ -85,6 +85,7 @@ main {
 }
 
 .location {
+    text-align: center;
     color: var(--accent-color);
 }
 
